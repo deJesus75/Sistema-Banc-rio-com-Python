@@ -1,0 +1,12 @@
+Maneiras de criar um copilot no copilot studio
+Usando um modelo pronto
+	O Copilot Studio oferece diversos modelos de Copilot pré-configurados para diferentes casos de uso, como atendimento ao cliente ou suporte técnico. Você pode escolher um modelo e personalizá-lo conforme necessário.
+Acessando o Copilot Studio com seu login na sua conta procure no painel inicial, escolha a opção para criar um novo Copilot.
+Selecione um dos modelos prontos disponíveis e personalize as configurações básicas, como nome, imagem.Você pode ajustar os fluxos de conversa, adicionando perguntas e respostas específicas.Após feito isso teste o Copilot para verificar se ele responde corretamente. Estando tudo coforme idealizado publique e integre o Copilot com sua plataforma desejada.
+Utilizando inteligência artificial para criar um copilot 
+	No Copilot Studio você pode descreve o seu copilot conforme sua necessidade, quanto mais detalhado o prompt melhor o resultado tmabem é possivel incorporar IA avançada para interpretar perguntas e oferecer respostas naturais e relevantes.
+Criando um Copilot do zero
+	Se quiser um Copilot totalmente personalizado, pode iniciar um novo projeto do zero e configurar suas respostas, fluxos de conversa e integração com outros sistemas.
+	Para isso acesse o Copilot Studio e inicie um novo projeto sem usar um modelo.Defina o propósito do seu Copilot e os principais tópicos que ele deve abordar e siga com todas as etapas de configurações como criar fluxos de conversa estruturados com possíveis perguntas e respostas, configurar variáveis para armazenar dados do usuário durante a conversa.
+Integrando com fontes de dados
+	Você pode conectar seu Copilot a bancos de dados, APIs ou documentos internos para que ele forneça respostas mais precisas e baseadas em informações reais.
